@@ -1,3 +1,3 @@
 # youedd.github.io
 
-![Under construction](under_construction.gif)
+![Under construction](under_construction.png)
